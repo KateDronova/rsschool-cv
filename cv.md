@@ -40,7 +40,7 @@ All this year I have already devoted to studying, and now, finally, ***it's time
 
 - Ulyanovsk State Technical University (bachelor designer - architect);
 - Coursera: UX/UI online course;
-![My certificate] (certificate.png)
+![My certificate](certificate.png)
 - HTML-academy: HTML, CSS & JavaScript online theory and practice (6 months);
 - Codecademy: free online lessons on JS;
 - eLearn UpskillMe program: *in progress*.
