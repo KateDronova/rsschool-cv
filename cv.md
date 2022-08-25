@@ -74,3 +74,15 @@ My latest code examples are JS tasks from HTML-academy such as:
         } else {
           isPalindrome = false;
         }
+        
+---
+
+#### Languages
+
+- English - B1 (B2);
+- Russian - native;
+- French - basics;
+- Spanish - basics;
+- Turkish - basics.
+
+*Ekaterina Dronova, 25/08/2022*
