@@ -17,3 +17,19 @@
 
 My goal and strong wish is to become a highly-qualified specialist and work in a reliable company.
 All this year I have already devoted to studying, and now, finally, ***it's time to act***!
+
+---
+
+#### Skills and Proficiency:
+
+1. Programming tools:
+    - HTML & CSS;
+    - JavaScript ;
+    - Git & GitHub;
+    - VS Code;
+    - Markdown.
+2. Design tools:
+    - 2D: Adobe Photoshop, Illustrator, Coral Draw;
+    - 3D: ArchiCAD, Sketch Up, КОМПАС-3D, Lumion.
+3. Mapping tools:
+    - MapInfo
